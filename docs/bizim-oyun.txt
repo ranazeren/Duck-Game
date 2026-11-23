@@ -1,0 +1,5 @@
+ ördek kıyafet ve itemlerin renkleri değişebilsin. 
+
+gün geçişlerinde iki saat de alacakaranlık ekleyebilirizgün sayısını günü belirlicek yazı saatin yanında minik 
+
+taş  minik , cursorun şekli değişcek
